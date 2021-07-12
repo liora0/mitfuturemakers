@@ -6,6 +6,9 @@ WEEK ONE
 
 07/07 - After attending David Kong's seminar of leadership and storytelling, I felt much more confident in my ability to tell stories and resonate with people through sharing stories. I realized that everyone really does have a story to share within them. The stories you tell to others can have an impact on those around you as well
 
-07/08 - I thought that it was really interesting to learn more about the processes behind creating and runing ML Models. I also really enjoyed talking about inclusive leadership. I think that it's really important to create safe environmnemts that encourage inclusivity and support for one another. Good collaboration results in better work.
+07/08 - [1] What is the difference between supervised and unsupervised learning? ----- Supervised learning involves labeled inputs and outputs. With supervised learning, algorithms need to be trained to be able to acquire what is needed to classify data. Unsupervised learning uses no labels and relies on clustering to classify objects
 
-07/09 - TBD
+[2]Describe why the following statement is FALSE: Scikit-Learn has the
+power to visualize data without a Graphviz, Pandas, or other data analysis libraries----- Sci-kit is mainly used to support statistical modeling, but it does nothave the features to support dtat visualization, which is why it relies on Graphiz and other packages 
+
+
