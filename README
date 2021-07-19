@@ -17,8 +17,4 @@ A convolutional neural network (CNN) can be used to acquire insights through a p
 
 07/12 - Tensors are multidimensional arrays of data (strings, numbers,etc.). Tensors are involved in the development of deep learning models and serves as a data structure for nerual networks within a model
 
-07/13 - 
-
-07/14
-
-07/15
+07/15 - An example of bias in AI, specifically within the healthcare field, is discriminatory algorithms used by some insurnce companies within the United States. Some insurance companies used data related to the costs of insurance claims to automate the prioritization of care amnong patients under that insurance. As a result, the algorithm began to prioritize white patients over patients of other ethnicities. In order to mak this more inclusive, the AI should also be trained on socioeconomic data in order to mitigate biases.
