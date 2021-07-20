@@ -41,4 +41,6 @@ A convolutional neural network (CNN) can be used to acquire insights through a p
 
  07/16
 
-tbd
+A convolutional neural network includes a convolutional layer that converts image pixels into single values, a pooling layer that reduces that reduces the size and paremters of feature maps, and a fully-connected layer, which is used to compile data extracted from previous layers to create a final output.
+
+Unlike CNNs, a fully connected neural network is a series of multiple fully connected layers. This type of nerual network connects neurons from one layer to other layers within the NN.
