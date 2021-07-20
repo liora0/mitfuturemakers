@@ -24,7 +24,7 @@ Sci-kit is mainly used to support statistical modeling, but it does nothave the 
 
 07/09 
 
- Several people tend struggle with regulating stress and emotions. Combining AI with mindfulness techniques could help in mitigating stress and improving emotion regulation.
+ Many people tend struggle with regulating stress and emotions. Combining AI with mindfulness techniques could help in mitigating stress and improving emotion regulation.
 A convolutional neural network (CNN) can be used to acquire insights through a person's MRI and EEG scans to monitor the efficacy of certain mindful practices for an individual
 [Max Planck Institut Leipzig Mind-Brain-Body Dataset][http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html]
 
