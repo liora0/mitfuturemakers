@@ -44,3 +44,7 @@ A convolutional neural network (CNN) can be used to acquire insights through a p
 A convolutional neural network includes a convolutional layer that converts image pixels into single values, a pooling layer that reduces that reduces the size and paremters of feature maps, and a fully-connected layer, which is used to compile data extracted from previous layers to create a final output.
 
 Unlike CNNs, a fully connected neural network is a series of multiple fully connected layers. This type of nerual network connects neurons from one layer to other layers within the NN.
+
+## **WEEK THREE**
+
+07/21 - There are multiple advantages that come with using a Rectified Linear Activation Unit. ReLs are computationally efficent and requires less intensive work. ReLs also allow for easy optimization and usage, as it does not require any exponential functions during computations and it acts as a linear activation function. NNs are usually easier to implement if the behavior is more linear. 
