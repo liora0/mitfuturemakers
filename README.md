@@ -1,6 +1,5 @@
 # ** MIT Futuremakers Program - Reflections**
 
-## **WEEK ONE**
 
 07/06 
 
@@ -28,7 +27,6 @@ Sci-kit is mainly used to support statistical modeling, but it does nothave the 
 A convolutional neural network (CNN) can be used to acquire insights through a person's MRI and EEG scans to monitor the efficacy of certain mindful practices for an individual
 [Max Planck Institut Leipzig Mind-Brain-Body Dataset][http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html]
 
-## **WEEK TWO**
 
 07/12 
 
@@ -45,6 +43,7 @@ A convolutional neural network includes a convolutional layer that converts imag
 
 Unlike CNNs, a fully connected neural network is a series of multiple fully connected layers. This type of nerual network connects neurons from one layer to other layers within the NN.
 
-## **WEEK THREE**
 
 07/21 - There are multiple advantages that come with using a Rectified Linear Activation Unit. ReLs are computationally efficent and requires less intensive work. ReLs also allow for easy optimization and usage, as it does not require any exponential functions during computations and it acts as a linear activation function. NNs are usually easier to implement if the behavior is more linear. 
+
+08/13 - It feels amazing to have presented my project with my team mebers! I'm so grateful to have been a part of this program, and I can't wait to utilize everything I have learned for my future endeavors!
